@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "horormods-jaNT.aternos.me:23569",
+    "ip": "horormods-jaNT.aternos.me",
     "port": 23569,
     "version": "",
     "try-creative": false
